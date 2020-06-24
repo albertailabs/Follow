@@ -5,11 +5,13 @@
 시작하기
 --
 
+![albert AI Follow](./images/albert02.png)
+
 - 알버트AI 전원을 켜서 부팅을 완료한 후 알버트 전면부로부터 5cm 떨어진 위치에 손이나 물체를 5초간 두면 삐삐삐 소리와 함께 따라오기 모드로 변합니다.
 - 제품 전면의 근접 센서 2개를 동시에 가려야 실행됩니다.
 
 
-![albert AI Follow](./images/albert02.png)
+
 
 
 유의사항
