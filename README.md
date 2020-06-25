@@ -1,7 +1,7 @@
 # Follow Mode
 따라오기 모드에서는 알버트가 손이나 물체의 움직임을 따라 움직입니다.
 
-[![Follow](http://img.youtube.com/vi/WF8zMxn0PF4?t=15/0.jpg)](https://youtu.be/WF8zMxn0PF4?t=15)
+[![Follow](http://img.youtube.com/vi/WF8zMxn0PF4?/0.jpg)](https://youtu.be/WF8zMxn0PF4)
 
 
 시작하기
